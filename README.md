@@ -13,9 +13,6 @@
 ---
 
 
-### 📊 Linguagens mais usadas
-# 👋 Olá mundo, eu sou Alisson! Sejam muito bem-vindos!
-
 
 
 ---
@@ -32,7 +29,7 @@
 ---
 
 ### 🌐 Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU-LINK)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=react)](https://SEU-SITE.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/SEU-USUARIO)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@SEU-CANAL)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissonfreireje35)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissonfreire654@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlissonFR)
+
